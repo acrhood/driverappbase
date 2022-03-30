@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75134990585",
+    "firebase_url": "https://pipedev-4a9ef.firebaseio.com",
+    "project_id": "pipedev-4a9ef",
+    "storage_bucket": "pipedev-4a9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75134990585:android:8c351ef5609e95e3300a28",
+        "android_client_info": {
+          "package_name": "com.pipe.driverappbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75134990585-7rjg787gr4ir84urqibfutn5mcb8cji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmyY1Cbwiw5RCRS41SUsN8o5__jzLgamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75134990585-7rjg787gr4ir84urqibfutn5mcb8cji9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

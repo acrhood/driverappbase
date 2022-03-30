@@ -1,0 +1,83 @@
+.app {
+    background-color: var(--ion-color-insideapp) !important;
+    color: #F8F8F8 !important;
+}
+
+.btnapp{
+    background: var(--ion-color-btnapp) !important;
+    color: #f8f8f8;
+}
+
+.more{
+    font-size: 3.5em;
+}
+
+.btnempty {
+    margin: 0px 25% 0px 25%;
+    padding: 2%;
+    color: white;
+    width: 50%;
+    border-radius: 0em 0em 1.5em 1.5em;
+    box-shadow: 0px 2.5px 5px -1.5px #0d7c66af;
+}
+
+.sc-ion-input-md-h{
+    background: white;
+}
+
+ion-avatar ion-img, ion-avatar img{
+    margin-top: -5px !important;
+}
+
+.text-large {
+    font-size: 30px;
+    text-decoration: none;
+    transition: 0.5 ease;
+}
+
+.footTotal {
+    position: absolute;
+    z-index: 999;
+    color: #fff;
+    height: 60px;
+    width: 75%;
+    bottom: 1.5%;
+    margin-left: 12.5% !important;
+}
+
+// **************************+
+.quantity-selector {
+    clear: both;
+    visibility: visible;
+    display: block;
+    width: 100%;
+  }
+  .product-minus-button,
+  .product-plus-button {
+    padding: 0;
+    height: 45px;
+    width: 40px;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+    font-size: 32px;
+    background: #e5e5e5;
+    border-radius: 5px;
+    span {
+      line-height: 40px;
+    }
+  }
+  .quantity-selector input {
+    max-width: 70px;
+    font-size: 1em;
+    position: relative;
+    z-index: 1;
+    margin: 0 -1px;
+    background: #f3f3f3;
+    float: left;
+    display: block;
+    width: 41%;
+    text-align: center;
+    height: 45px;
+    border: none;
+  }

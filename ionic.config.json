@@ -1,0 +1,7 @@
+{
+  "name": "driverappbase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
